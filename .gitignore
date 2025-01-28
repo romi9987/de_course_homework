@@ -1,0 +1,3 @@
+venv
+data/ny_taxi_postgres_data
+conf/params.json

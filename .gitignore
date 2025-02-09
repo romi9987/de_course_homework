@@ -1,4 +1,8 @@
 venv
 data/ny_taxi_postgres_data
 data/data_pgadmin
-conf/params.json
+conf/*.json
+.env
+__pycache__
+logs
+plugins

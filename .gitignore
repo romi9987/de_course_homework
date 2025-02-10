@@ -6,3 +6,4 @@ conf/*.json
 __pycache__
 logs
 plugins
+.duckdb
